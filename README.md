@@ -1,4 +1,4 @@
-# 👤 Jae-Sung-Lee | Big Data & Cloud computing 
+# 👤 Jae-Sung-Lee
 
 
 
@@ -15,7 +15,7 @@
 ### 📊 Big Data & Database(Studying)
 - 🗄 **Big Data Processing** (Hadoop)  
 - 🗃 **NoSQL Databases** (MongoDB)
-- 🦭 **RDB & RDBMS** (MariaDB, Oracle)
+- 🦭 **RDB & RDBMS** ([MariaDB](https://github.com/MariaDB), [Oracle](https://github.com/oracle))
 
 
 ### ⚙️ Backend & Programming(Studying)
