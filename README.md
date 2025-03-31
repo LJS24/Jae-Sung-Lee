@@ -75,15 +75,4 @@
 
 ---
 
-## 🌎 Connect with Me(SNS)
-
-
----
-
-## 📧 Contact
-📩 **Email:** 2420110219@gspace.kopo.ac.kr  
-
-
----
-
 😊 **Thank you for Visiting my Github profile!**  
