@@ -3,7 +3,7 @@
 
 
 ## 🚀 I am..
-🏫 **Student** of **Big-Data Major** at **Korea Polytechnic of Seoul Gangseo Campus**
+🏫 **2nd grade Student** of **Big-Data Major** at **Korea Polytechnic of Seoul Gangseo Campus**
 
 🖋️ Learning about **Cloud Native Application, Big Data, AI**  
 
@@ -11,7 +11,7 @@
 
 ---
 
-## 🛠️ Tech Stacks & Studying
+## 🛠️ Tech Stacks & Learning Field
 ### 📊 Big Data & Database
 - 🗄 **Big Data Processing** (Hadoop)  
 - 🗃 **NoSQL Databases** (MongoDB)
