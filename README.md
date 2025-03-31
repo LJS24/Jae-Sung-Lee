@@ -11,11 +11,11 @@
 
 ---
 
-## 🛠️ Tech Stack(ing)
+## 🛠️ Tech Stacks
 ### 📊 Big Data & Database(Studying)
 - 🗄 **Big Data Processing** (Hadoop)  
 - 🗃 **NoSQL Databases** (MongoDB)
-- 🦭 **RDB & RDBMS** ([MariaDB], [Oracle])
+- 🦭 **RDB & RDBMS** (MariaDB, Oracle)
 
 
 ### ⚙️ Backend & Programming(Studying)
@@ -25,9 +25,25 @@
 
 
 ### 🖥️Front-end(Studying)
-- 🌐 **HTML5 & CSS & Javascript** (With VSCode, WebStorm)
+- 🌐 **HTML5 & CSS & Javascript**
 - 🅱️ **Responsive Web Design** (Using Bootstrap)
 - ✖️ **Cross-platform** (Flutter)
+
+---
+
+## ⚙️Tools
+VSCode
+DA#Modeler5
+IntelliJ
+WebStorm
+PyCharm
+VMWare Pro
+Studio 3T
+Xshell 8
+MobaXterm
+R
+Microsoft Office
+
 
 ---
 
