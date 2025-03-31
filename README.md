@@ -32,18 +32,27 @@
 ---
 
 ## ⚙️Tools
-VSCode
-DA#Modeler5
-IntelliJ
-WebStorm
-PyCharm
-VMWare Pro
-Studio 3T
-Xshell 8
-MobaXterm
-R
-Microsoft Office
+**VSCode**
 
+**DA#Modeler5**
+
+**IntelliJ**
+
+**WebStorm**
+
+**PyCharm**
+
+**VMWare Pro**
+
+**Studio 3T**
+
+**Xshell 8**
+
+**MobaXterm**
+
+**R**
+
+**Microsoft Office**
 
 ---
 
