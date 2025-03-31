@@ -4,7 +4,9 @@
 
 ## 🚀 I am..
 🏫 **Student** of **Big-Data Major** at **Korea Polytechnic of Seoul Gangseo Campus**
+
 🖋️ Learning about **Cloud Native Application, Big Data, AI**  
+
 💡 Interested in **Java& Python programming, Web Design, AI** 
 
 ---
