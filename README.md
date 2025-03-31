@@ -43,7 +43,9 @@
 
 ## 🎯 My Goals for 2025
 ✅ Develope **Spring Boot** project using **JPA & ThymeLeaf**  
+
 ✅ Complete **K-PaaS Professional Training**
+
 ✅ Obtaining **Industrial Engineer Information Processing License**
 
 ---
