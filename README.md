@@ -15,7 +15,7 @@
 ### 📊 Big Data & Database(Studying)
 - 🗄 **Big Data Processing** (Hadoop)  
 - 🗃 **NoSQL Databases** (MongoDB)
-- 🦭 **RDB & RDBMS** ([MariaDB](https://github.com/MariaDB), [Oracle](https://github.com/oracle))
+- 🦭 **RDB & RDBMS** ([MariaDB], [Oracle])
 
 
 ### ⚙️ Backend & Programming(Studying)
