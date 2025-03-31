@@ -1,4 +1,4 @@
-# 👤 LJS24 | Jae-Sung-Lee
+# 👤 Jae Sung Lee
 
 
 
