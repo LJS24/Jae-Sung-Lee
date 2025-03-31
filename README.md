@@ -11,27 +11,27 @@
 
 ---
 
-## 🛠️ Tech Stacks
-### 📊 Big Data & Database(Studying)
+## 🛠️ Tech Stacks & Studying
+### 📊 Big Data & Database
 - 🗄 **Big Data Processing** (Hadoop)  
 - 🗃 **NoSQL Databases** (MongoDB)
 - 🦭 **RDB & RDBMS** (MariaDB, Oracle)
 
 
-### ⚙️ Backend & Programming(Studying)
+### ⚙️ Backend & Programming
 - ☕ **Java & Spring** (Spring Data JPA, Spring Boot)  
 - 🐍 **Python for AI & Data Science** (TensorFlow, Tesseract)  
 - 📡 **RESTful API** (OpenAPI)
 
 
-### 🖥️Front-end(Studying)
+### 🖥️Front-end
 - 🌐 **HTML5 & CSS & Javascript**
 - 🅱️ **Responsive Web Design** (Using Bootstrap)
 - ✖️ **Cross-platform** (Flutter)
 
 ---
 
-## ⚙️Tools
+## ⚙️Tools(Currently use)
 **VSCode**
 
 **DA#Modeler5**
